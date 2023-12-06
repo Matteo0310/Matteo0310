@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matteo Scilleri.
 
-<!--
-**Matteo0310/Matteo0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer and Graphic Designer!
 
-Here are some ideas to get you started:
+# Matteo is a Junior Full stack Developer and a Senior Graphic Designer with a passion for drawing illustration and designing websites.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
