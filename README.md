@@ -6,7 +6,7 @@
 #
 - 🔭 I’m currently working on a stock service website.
 - 🌱 I’m currently improving my Javascript, pyhton, React and Bootstrap skills
-- <a><img href="https://www.linkedin.com/in/matteo-scilleri/" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="20" height="20" alt="linkedin" /> Linkedin </a>
+- <a><img href="" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="20" height="20" alt="linkedin" /> <a href="https://www.linkedin.com/in/matteo-scilleri/">Linkedin</a></a>
 - <a><img href="" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="20" height="20" alt="gmail" /> mattythedark@gmail.com </a>
 - 😄 Pronouns: Him/his
 - ⚡ Fun fact:
